@@ -1,0 +1,6 @@
+# robots.txt for MoneyMinded — https://moneymindedguide.com
+# Allow all reputable search engines to crawl and index the whole site.
+User-agent: *
+Allow: /
+
+Sitemap: https://moneymindedguide.com/sitemap.xml

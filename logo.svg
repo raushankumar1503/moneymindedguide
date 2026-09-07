@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="MoneyMinded logo">
+  <circle cx="60" cy="60" r="58" fill="#1f7a5a"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#e7b24a" stroke-width="2.5" opacity="0.85"/>
+  <text x="60" y="83" font-size="66" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-weight="600">M</text>
+</svg>

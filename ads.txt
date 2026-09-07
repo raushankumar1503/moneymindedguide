@@ -1,0 +1,13 @@
+# ads.txt — Authorized Digital Sellers
+#
+# This file tells advertisers that Google is authorized to sell ads on your site.
+# It helps prevent ad fraud and is recommended by Google AdSense.
+#
+# AFTER you are approved for AdSense:
+#   1. Replace pub-0000000000000000 below with YOUR publisher ID
+#      (it looks like "pub-1234567890123456" — find it in your AdSense account).
+#   2. Keep the rest of the line exactly the same.
+#   3. Re-upload this file to the root of your site (it must be reachable at
+#      https://moneymindedguide.com/ads.txt).
+#
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
