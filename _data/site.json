@@ -1,0 +1,43 @@
+{
+  "domain": "https://moneymindedguide.com",
+  "siteName": "MoneyMinded",
+  "gaId": "G-Y9TY1WFQ3F",
+  "googleSiteVerification": "RHVwVP31phFT9q2oM7UOp_G8bRMErGhfHWbVQRcIVJI",
+  "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231f7a5a'/%3E%3Ctext x='16' y='23' font-size='20' text-anchor='middle' fill='%23ffffff' font-family='Georgia,serif'%3EM%3C/text%3E%3C/svg%3E",
+  "fontsUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..600&family=Public+Sans:wght@400;500;600;700&display=swap",
+  "fontAwesomeUrl": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css",
+  "adsenseComment": "<!-- Paste your approved AdSense <script> here inside every page's <head>. -->",
+  "nav": [
+    { "href": "index.html", "icon": "fa-house", "label": "Home" },
+    { "href": "budgeting.html", "icon": "fa-wallet", "label": "Budgeting" },
+    { "href": "saving.html", "icon": "fa-piggy-bank", "label": "Saving" },
+    { "href": "debt-credit.html", "icon": "fa-credit-card", "label": "Debt & Credit" },
+    { "href": "investing.html", "icon": "fa-arrow-trend-up", "label": "Investing" },
+    { "href": "retirement.html", "icon": "fa-umbrella-beach", "label": "Retirement" },
+    { "href": "money-basics.html", "icon": "fa-book-open", "label": "Money Basics" },
+    { "href": "about.html", "icon": "fa-circle-info", "label": "About" }
+  ],
+  "footerBlurb": "Simple money skills for real life. Practical, jargon-free guides to help you budget, save, and get out of debt — one small step at a time.",
+  "footerCats": [
+    { "href": "budgeting.html", "icon": "fa-wallet", "label": "Budgeting" },
+    { "href": "saving.html", "icon": "fa-piggy-bank", "label": "Saving" },
+    { "href": "banking.html", "icon": "fa-building-columns", "label": "Banking" },
+    { "href": "credit.html", "icon": "fa-gauge-high", "label": "Credit" },
+    { "href": "debt-credit.html", "icon": "fa-credit-card", "label": "Debt & Credit" },
+    { "href": "retirement.html", "icon": "fa-umbrella-beach", "label": "Retirement" },
+    { "href": "investing.html", "icon": "fa-arrow-trend-up", "label": "Investing" },
+    { "href": "financial-basics.html", "icon": "fa-scale-balanced", "label": "Financial Basics" },
+    { "href": "money-basics.html", "icon": "fa-book-open", "label": "Money Basics" },
+    { "href": "personal-finance.html", "icon": "fa-coins", "label": "Personal Finance" }
+  ],
+  "footerSite": [
+    { "href": "about.html", "label": "About" },
+    { "href": "contact.html", "label": "Contact" },
+    { "href": "editorial-standards.html", "label": "Editorial standards" },
+    { "href": "privacy-policy.html", "label": "Privacy policy" },
+    { "href": "disclaimer.html", "label": "Disclaimer" },
+    { "href": "terms.html", "label": "Terms" }
+  ],
+  "footerCopyright": "&copy; 2026 MoneyMinded. All rights reserved.",
+  "footerTagline": "Educational information only — not financial advice."
+}

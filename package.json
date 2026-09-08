@@ -1,0 +1,10 @@
+{
+  "name": "moneyminded",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MoneyMinded static site — single-source content generator (zero runtime dependencies).",
+  "scripts": {
+    "build": "node build.js",
+    "verify": "node verify.js"
+  }
+}

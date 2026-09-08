@@ -1,0 +1,12 @@
+{
+  "budgeting": { "name": "Budgeting", "page": "budgeting.html", "url": "https://moneymindedguide.com/budgeting.html" },
+  "saving": { "name": "Saving", "page": "saving.html", "url": "https://moneymindedguide.com/saving.html" },
+  "banking": { "name": "Banking", "page": "banking.html", "url": "https://moneymindedguide.com/banking.html" },
+  "credit": { "name": "Credit", "page": "credit.html", "url": "https://moneymindedguide.com/credit.html" },
+  "debt-credit": { "name": "Debt & Credit", "page": "debt-credit.html", "url": "https://moneymindedguide.com/debt-credit.html" },
+  "retirement": { "name": "Retirement", "page": "retirement.html", "url": "https://moneymindedguide.com/retirement.html" },
+  "investing": { "name": "Investing", "page": "investing.html", "url": "https://moneymindedguide.com/investing.html" },
+  "financial-basics": { "name": "Financial Basics", "page": "financial-basics.html", "url": "https://moneymindedguide.com/financial-basics.html" },
+  "money-basics": { "name": "Money Basics", "page": "money-basics.html", "url": "https://moneymindedguide.com/money-basics.html" },
+  "personal-finance": { "name": "Personal Finance", "page": "personal-finance.html", "url": "https://moneymindedguide.com/personal-finance.html" }
+}

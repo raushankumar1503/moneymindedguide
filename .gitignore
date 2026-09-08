@@ -1,11 +1,4 @@
-# OS / editor junk
+node_modules/
+_site/
+.cache/
 .DS_Store
-Thumbs.db
-*.log
-.vscode/
-.idea/
-
-# Internal working docs (not part of the published website).
-# Delete these two lines if you want them tracked in the repo.
-ADSENSE-PRELAUNCH-CHECKLIST.md
-CLOUDFLARE-PAGES-MIGRATION.md
