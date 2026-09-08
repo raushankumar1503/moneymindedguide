@@ -84,7 +84,7 @@
 
         <h2 id="step-4-plan">Step 4: Give every dollar a job</h2>
         <p>Here's where your budget comes together. Take your monthly income and assign it across your categories until there's nothing left unplanned. The goal is simple: <strong>income minus everything you've assigned should equal zero</strong>. That doesn't mean you spend it all — money you send to savings or debt still counts as a job well done.</p>
-        <p>Work in order of priority. Cover your needs first, then set aside money for your goals, and give whatever remains to your wants. We'll use the dollar sign for examples, but the same maths works in any currency. For instance, if you bring home $3,000 a month, you might assign $1,800 to needs, $600 to goals, and $600 to wants — adjust the split to fit your life.</p>
+        <p>Work in order of priority. Cover your needs first, then set aside money for your goals, and give whatever remains to your wants. We'll use the dollar sign for examples, but the same maths works in any currency. For instance, if you bring home $3,000 a month, you might assign $1,800 to needs, $600 to goals, and $600 to wants — adjust the split to fit your life. If you'd like that split worked out automatically, our <a href="budget-calculator.html">50/30/20 budget calculator</a> turns your take-home pay into needs, wants, and savings figures in seconds.</p>
         <p>If your outgo is higher than your income, don't panic. That's useful information, not failure. You can trim a few wants, look for <a href="ways-to-save-money-every-month.html">ways to save money</a> on your regular bills, or explore ways to earn a little more.</p>
 
         <h2 id="step-5-track">Step 5: Track it and adjust</h2>

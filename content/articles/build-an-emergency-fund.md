@@ -196,7 +196,7 @@
           <li><strong>Make sure it's easy access</strong> — you should be able to withdraw within a day or two, not locked away for months.</li>
           <li><strong>Keep it safe, not invested.</strong> An emergency fund isn't for the stock market; its whole job is to be there in full on the day you need it.</li>
         </ul>
-        <p>Avoid leaving it in your current account, where it quietly gets spent, and avoid tying it up in investments that could fall in value at exactly the wrong moment.</p>
+        <p>Avoid leaving it in your current account, where it quietly gets spent, and avoid tying it up in investments that could fall in value at exactly the wrong moment. If you are weighing up where exactly to hold it, our guide to <a href="checking-vs-savings-account.html">checking vs. savings accounts</a> explains why a separate savings account is usually the right home for this money.</p>
 
         <h2 id="how-to-start">How to build it, step by step</h2>
         <p>Building a fund is less about willpower and more about setting up a simple system and letting it run.</p>
