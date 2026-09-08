@@ -1,0 +1,205 @@
+---json
+{
+  "layout": "article",
+  "title": "APR vs. APY: What's the Difference and Why Does It Matter?",
+  "ogTitle": "APR vs. APY: What's the Difference and Why Does It Matter?",
+  "headline": "APR vs. APY: What's the Difference and Why Does It Matter?",
+  "description": "APR measures the cost of borrowing; APY measures the return on savings. Learn how compounding separates the two, with clear numerical examples for loans and deposits.",
+  "permalink": "/apr-vs-apy.html",
+  "slug": "apr-vs-apy",
+  "category": "banking",
+  "author": "raushan-kumar",
+  "datePublished": "2026-09-04",
+  "dateModified": "2026-09-04",
+  "publishedDisplay": "September 4, 2026",
+  "reviewedDisplay": "September 4, 2026",
+  "readingTime": "8 min read",
+  "toc": [
+    {
+      "href": "#two-sides",
+      "label": "Two words, two sides of a deal"
+    },
+    {
+      "href": "#apr",
+      "label": "What APR means"
+    },
+    {
+      "href": "#apy",
+      "label": "What APY means"
+    },
+    {
+      "href": "#rate-vs-apr",
+      "label": "Interest rate vs. APR"
+    },
+    {
+      "href": "#compounding",
+      "label": "Compounding: the engine behind APY"
+    },
+    {
+      "href": "#example",
+      "label": "A worked example"
+    },
+    {
+      "href": "#borrowing",
+      "label": "When you are borrowing"
+    },
+    {
+      "href": "#saving",
+      "label": "When you are saving"
+    },
+    {
+      "href": "#mistakes",
+      "label": "Common mistakes"
+    },
+    {
+      "href": "#bottom-line",
+      "label": "The bottom line"
+    },
+    {
+      "href": "#faq",
+      "label": "Frequently asked questions"
+    },
+    {
+      "href": "#sources",
+      "label": "Sources & further reading"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is APR or APY better?",
+      "a": "Neither is better on its own; they describe different things. When you are borrowing, a lower APR is better because it means the loan or card costs you less. When you are saving, a higher APY is better because it means your deposit earns more. The word to watch is which side of the transaction you are on."
+    },
+    {
+      "q": "Why is APY higher than the interest rate?",
+      "a": "APY is higher than the stated interest rate whenever interest compounds more than once a year, because you start earning interest on interest. If the account compounds only once a year, the APY and the nominal rate are the same. The more frequent the compounding, the larger the gap."
+    },
+    {
+      "q": "Does APR include compounding?",
+      "a": "For credit cards, APR is typically the yearly rate without accounting for compounding within the year, even though interest may actually compound. That is one reason the true annual cost of carrying a balance can be slightly higher than the stated APR. APY, by contrast, is designed to reflect compounding."
+    },
+    {
+      "q": "What is the difference between APR and interest rate on a loan?",
+      "a": "The interest rate is the cost of borrowing the principal alone. The APR is broader: it can also fold in certain fees and charges, expressed as a yearly percentage. Because of that, the APR on a loan is often a more complete measure of what you will pay than the interest rate by itself."
+    },
+    {
+      "q": "How do I compare two savings accounts fairly?",
+      "a": "Compare their APYs rather than their nominal interest rates, because APY already accounts for how often each account compounds. Two accounts can advertise the same interest rate but pay different amounts if one compounds monthly and the other annually, and the APY captures that difference in a single number."
+    }
+  ],
+  "related": [
+    {
+      "href": "what-is-compound-interest.html",
+      "label": "How compound interest works"
+    },
+    {
+      "href": "how-credit-scores-work.html",
+      "label": "How credit scores work"
+    },
+    {
+      "href": "how-to-get-out-of-credit-card-debt.html",
+      "label": "How to get out of credit-card debt"
+    }
+  ]
+}
+---
+        <p class="geo-line"><span class="geo-badge">US + UK context</span> APR and APY are terms you will see most often in the United States, where disclosure rules require them. The underlying ideas travel everywhere; in the UK, for example, savings accounts quote an equivalent figure called the AER.</p>
+        <p>APR and APY look almost identical — three letters apart by a single vowel — and they are easy to mix up. But they sit on opposite sides of a financial transaction. One tells you what borrowing costs. The other tells you what saving earns. Confusing them can lead you to overestimate what a savings account pays, or underestimate what a loan really costs.</p>
+        <p>The good news is that once you see the single idea that separates them — compounding — the difference becomes clear and stays clear. This guide walks through both, with numbers you can follow on a calculator.</p>
+
+        <h2 id="two-sides">Two words, two sides of a deal</h2>
+        <p>Here is the quickest way to keep them straight. <strong>APR</strong> — annual percentage rate — usually describes the cost of <em>borrowing</em>. <strong>APY</strong> — annual percentage yield — usually describes the return on <em>saving</em>. When money is flowing away from you (a loan, a credit card), think APR. When money is flowing toward you (a savings account, a certificate of deposit), think APY.</p>
+        <p>That is the practical rule. The interesting part is why two different measures exist at all, and the answer comes down to how each one treats compounding.</p>
+
+        <h2 id="apr">What APR means</h2>
+        <p>APR expresses the yearly cost of borrowing as a percentage. Its usefulness is that it can capture more than just the raw interest rate — depending on the product, it may also include certain fees rolled into the cost of the loan. That makes it a broader, more honest measure of what credit costs than the headline interest rate alone.</p>
+        <p>You will encounter APR on credit cards, mortgages, car loans, and personal loans. Because it is meant to standardise how lenders present their pricing, it lets you line up two offers and compare them on something closer to equal footing.</p>
+
+        <h2 id="apy">What APY means</h2>
+        <p>APY expresses how much a deposit earns in a year as a percentage, and its defining feature is that it accounts for compounding — the effect of earning interest on interest already paid. Because it bakes in compounding, APY reflects what you would actually earn over a year, not just the advertised base rate.</p>
+        <p>You will see APY on savings accounts, money market accounts, and certificates of deposit. When two savings products list different APYs, the higher one earns more over a year on the same balance, all else equal.</p>
+
+        <h2 id="rate-vs-apr">Interest rate vs. APR</h2>
+        <p>People often treat "interest rate" and "APR" as synonyms, but on a loan they can differ. The interest rate is the cost of borrowing the principal by itself. The APR can be larger because it also reflects certain fees, expressed as a yearly percentage.</p>
+        <p>Imagine a $10,000 personal loan advertised at a 6% interest rate, but with $300 in upfront fees. The interest rate is 6%, yet the APR will be somewhat higher, because those fees are folded into the annualised cost. This is exactly why comparing APRs — rather than interest rates — gives you a fairer read on which loan is genuinely cheaper.</p>
+
+        <h2 id="compounding">Compounding: the engine behind APY</h2>
+        <p>Compounding is the single idea that separates a nominal rate from APY. When an account compounds, the interest you earn is added to your balance, and the next round of interest is calculated on that slightly larger balance. Do this repeatedly through the year and you earn a little more than the stated rate would suggest.</p>
+        <p>The frequency matters. An account can compound annually, quarterly, monthly, or daily. The more often it compounds, the higher the APY climbs above the nominal rate. If an account compounds only once a year, the APY and the stated rate are identical — there is no interest-on-interest yet to capture.</p>
+
+        <h2 id="example">A worked example</h2>
+        <p>Suppose you deposit <strong>$10,000</strong> in a savings account with a stated interest rate of <strong>5%</strong>. What you actually earn over a year depends on how often it compounds.</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Compounding</th><th>Balance after 1 year</th><th>APY</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Annually</td><td>$10,500.00</td><td>5.00%</td></tr>
+              <tr><td>Quarterly</td><td>$10,509.45</td><td>~5.09%</td></tr>
+              <tr><td>Monthly</td><td>$10,511.62</td><td>~5.12%</td></tr>
+              <tr><td>Daily</td><td>$10,512.67</td><td>~5.13%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>The stated rate is 5% in every row, yet the money earned rises with more frequent compounding. That extra earning is precisely what APY captures and the nominal rate hides. It is not a huge sum on $10,000 in a single year, but the same mechanism becomes powerful over long periods — the idea at the heart of <a href="what-is-compound-interest.html">how compound interest works</a>.</p>
+        <p>Now flip to borrowing. A credit card with a <strong>24% APR</strong> works out to roughly 2% a month (24% ÷ 12). Carry a <strong>$1,000</strong> balance and you are looking at about <strong>$20</strong> of interest in the first month alone — and because card interest often compounds, the true yearly cost can edge slightly above the stated 24%.</p>
+
+        <h2 id="borrowing">When you are borrowing</h2>
+        <p>As a borrower, your goal is to pay as little as possible for the money, so you want the <em>lowest</em> APR. Compare APRs across offers rather than interest rates, since the APR is more likely to reflect fees. And remember that on revolving debt like credit cards, the fastest way to avoid interest altogether is to pay the balance in full — no rate, however low, beats not carrying a balance. If card debt is the issue, our guide on <a href="how-to-get-out-of-credit-card-debt.html">getting out of credit-card debt</a> goes deeper.</p>
+
+        <h2 id="saving">When you are saving</h2>
+        <p>As a saver, you want the <em>highest</em> APY, because that is the figure that already accounts for compounding and therefore reflects real annual earnings. When you shop for a place to park cash — say, the savings you have set aside in your <a href="build-an-emergency-fund.html">emergency fund</a> — comparing APYs lets you judge two accounts fairly even when they compound on different schedules.</p>
+
+        <h2 id="mistakes">Common mistakes</h2>
+        <ul>
+          <li><strong>Comparing an APR to an APY.</strong> They are not like-for-like. Compare APR to APR, and APY to APY.</li>
+          <li><strong>Assuming the interest rate equals the APR on a loan.</strong> Fees can push the APR above the rate, so the rate alone can understate the cost.</li>
+          <li><strong>Ignoring compounding frequency on savings.</strong> Two accounts with the same nominal rate can pay different amounts; the APY is what settles it.</li>
+          <li><strong>Focusing only on the headline number on a card.</strong> A low APR still costs you if you carry a balance month after month.</li>
+        </ul>
+
+        <h2 id="bottom-line">The bottom line</h2>
+        <p>APR and APY answer two different questions: what does this cost me to borrow, and what does this earn me to save? APR is the borrower's number and should be as low as possible; APY is the saver's number and should be as high as possible. The reason they diverge is compounding — APY reflects it, while the nominal rate and (typically) a card's APR do not. Keep that one distinction in mind and you will read the fine print on both loans and savings accounts with a lot more confidence.</p>
+
+        <h2 id="faq">Frequently asked questions</h2>
+        <div class="faq">
+          <div class="faq-item">
+            <h3 class="faq-q">Is APR or APY better?</h3>
+            <p class="faq-a">Neither is better on its own; they describe different things. When you are borrowing, a lower APR is better because it means the loan or card costs you less. When you are saving, a higher APY is better because it means your deposit earns more. The word to watch is which side of the transaction you are on.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">Why is APY higher than the interest rate?</h3>
+            <p class="faq-a">APY is higher than the stated interest rate whenever interest compounds more than once a year, because you start earning interest on interest. If the account compounds only once a year, the APY and the nominal rate are the same. The more frequent the compounding, the larger the gap.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">Does APR include compounding?</h3>
+            <p class="faq-a">For credit cards, APR is typically the yearly rate without accounting for compounding within the year, even though interest may actually compound. That is one reason the true annual cost of carrying a balance can be slightly higher than the stated APR. APY, by contrast, is designed to reflect compounding.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">What is the difference between APR and interest rate on a loan?</h3>
+            <p class="faq-a">The interest rate is the cost of borrowing the principal alone. The APR is broader: it can also fold in certain fees and charges, expressed as a yearly percentage. Because of that, the APR on a loan is often a more complete measure of what you will pay than the interest rate by itself.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">How do I compare two savings accounts fairly?</h3>
+            <p class="faq-a">Compare their APYs rather than their nominal interest rates, because APY already accounts for how often each account compounds. Two accounts can advertise the same interest rate but pay different amounts if one compounds monthly and the other annually, and the APY captures that difference in a single number.</p>
+          </div>
+        </div>
+
+        <h2 id="sources">Sources &amp; further reading</h2>
+        <p>Our explanations and examples are our own. For authoritative definitions and consumer guidance on how these rates are disclosed, these official resources are good starting points:</p>
+        <div class="sources">
+          <ul>
+            <li>
+              <span class="src-name">Consumer Financial Protection Bureau (CFPB)</span>
+              <a href="https://www.consumerfinance.gov/" target="_blank" rel="noopener">Consumer guidance on credit, loans, and deposit accounts</a>
+            </li>
+            <li>
+              <span class="src-name">Federal Deposit Insurance Corporation (FDIC)</span>
+              <a href="https://www.fdic.gov/" target="_blank" rel="noopener">Information on deposit accounts and savings</a>
+            </li>
+            <li>
+              <span class="src-name">Federal Reserve</span>
+              <a href="https://www.federalreserve.gov/" target="_blank" rel="noopener">Background on interest rates and consumer credit</a>
+            </li>
+          </ul>
+        </div>

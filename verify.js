@@ -6,6 +6,17 @@ const path = require("path");
 const ROOT = __dirname;
 
 const norm = (s) => (s == null ? "" : String(s).replace(/\s+/g, " ").trim());
+// Entity-decode for semantic text comparison (e.g. crumb "Debt & Credit"): the
+// hand-written originals inconsistently use a bare "&" while the generator emits
+// valid "&amp;"; both render identically and the JSON-LD name is byte-identical.
+const decEnt = (s) =>
+  s == null
+    ? s
+    : s
+        .replace(/&lt;/g, "<")
+        .replace(/&gt;/g, ">")
+        .replace(/&quot;/g, '"')
+        .replace(/&amp;/g, "&");
 const grab = (h, re) => {
   const m = h.match(re);
   return m ? m[1] : null;
@@ -45,7 +56,7 @@ function fields(h) {
     gaId: grab(h, /gtag\/js\?id=([A-Za-z0-9-]+)/),
     h1: norm(grab(h, /<h1>([\s\S]*?)<\/h1>/)),
     crumbHref: grab(h, /<a class="crumb" href="([^"]+)">/),
-    crumbText: norm(grab(h, /<a class="crumb" href="[^"]+">([\s\S]*?)<\/a>/)),
+    crumbText: decEnt(norm(grab(h, /<a class="crumb" href="[^"]+">([\s\S]*?)<\/a>/))),
     byline: norm(grab(h, /<div class="byline">([\s\S]*?)<\/div>/)),
     authorName: norm(grab(h, /<p class="author-name">([\s\S]*?)<\/p>/)),
     authorRole: norm(grab(h, /<p class="author-role">([\s\S]*?)<\/p>/)),

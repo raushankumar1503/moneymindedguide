@@ -1,0 +1,46 @@
+
+  <script>
+  /* Compound-interest estimator — vanilla JS, no libraries.
+     FV of an initial principal plus a contribution added at the end of
+     each compounding period (ordinary annuity):
+       FV = P(1+i)^N + PMT * ((1+i)^N - 1) / i,  where i = r/n and N = n*t.
+     All outputs are clearly labelled estimates for illustration only. */
+  (function () {
+    var ids = ['ci-principal', 'ci-contribution', 'ci-rate', 'ci-frequency', 'ci-years'];
+    function num(v) { v = parseFloat(v); return isFinite(v) ? v : 0; }
+    function money(x) {
+      if (!isFinite(x)) return '—';
+      return '$' + x.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    }
+    function calc() {
+      var P = Math.max(0, num(document.getElementById('ci-principal').value));
+      var PMT = Math.max(0, num(document.getElementById('ci-contribution').value));
+      var rate = Math.max(0, num(document.getElementById('ci-rate').value)) / 100;
+      var n = parseInt(document.getElementById('ci-frequency').value, 10) || 1;
+      var years = Math.max(0, num(document.getElementById('ci-years').value));
+      var N = Math.round(n * years);
+      var i = rate / n;
+      var fv;
+      if (N === 0) { fv = P; }
+      else if (i === 0) { fv = P + PMT * N; }
+      else {
+        var g = Math.pow(1 + i, N);
+        fv = P * g + PMT * ((g - 1) / i);
+      }
+      var contrib = P + PMT * N;
+      var growth = fv - contrib;
+      document.getElementById('ci-out-balance').textContent = money(fv);
+      document.getElementById('ci-out-contrib').textContent = money(contrib);
+      document.getElementById('ci-out-growth').textContent = money(growth);
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+      ids.forEach(function (id) {
+        var el = document.getElementById(id);
+        if (el) { el.addEventListener('input', calc); el.addEventListener('change', calc); }
+      });
+      var btn = document.getElementById('ci-calc-btn');
+      if (btn) { btn.addEventListener('click', calc); }
+      calc();
+    });
+  })();
+  </script>
