@@ -25,6 +25,10 @@
       "label": "How much should you save?"
     },
     {
+      "href": "#example",
+      "label": "A worked example"
+    },
+    {
       "href": "#where",
       "label": "Where to keep your emergency fund"
     },
@@ -43,6 +47,10 @@
     {
       "href": "#rebuild",
       "label": "How to bounce back after using it"
+    },
+    {
+      "href": "#mistakes",
+      "label": "Common mistakes to avoid"
     },
     {
       "href": "#bottom-line",
@@ -146,6 +154,40 @@
         <p>Once you have that essentials figure, the <a href="emergency-fund-calculator.html">emergency fund calculator</a> turns it into a target, shows what's left to save, and suggests a monthly amount to get there.</p>
         <div class="callout"><h4>Start small</h4><p>Don't let the full target scare you off. Saving your first $500 is a genuine win that will absorb a surprising number of everyday emergencies. Aim for that first, celebrate it, then keep going.</p></div>
 
+        <h2 id="example">A worked example</h2>
+        <p>Numbers make the target feel concrete. Suppose your essential monthly costs add up like this:</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Essential cost</th><th>Monthly amount</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Housing (rent or mortgage)</td><td>$1,200</td></tr>
+              <tr><td>Utilities</td><td>$200</td></tr>
+              <tr><td>Food and groceries</td><td>$400</td></tr>
+              <tr><td>Transport</td><td>$250</td></tr>
+              <tr><td>Insurance</td><td>$150</td></tr>
+              <tr><td>Minimum debt payments</td><td>$300</td></tr>
+              <tr><td><strong>Total essentials</strong></td><td><strong>$2,500</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>With essentials of <strong>$2,500 a month</strong>, a three-month cushion is $2,500 × 3 = <strong>$7,500</strong>, and a six-month cushion is $2,500 × 6 = <strong>$15,000</strong>. That full figure can look daunting, which is exactly why the starter fund comes first: a <strong>$1,000</strong> starter is a much smaller, nearer goal.</p>
+        <p>What turns a target into a plan is a regular transfer. Here is how long that same $7,500 three-month fund takes to reach at a few different monthly amounts:</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>You save each month</th><th>Time to the $1,000 starter</th><th>Time to the $7,500 fund</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>$100</td><td>10 months</td><td>75 months (about 6 years)</td></tr>
+              <tr><td>$250</td><td>4 months</td><td>30 months (about 2.5 years)</td></tr>
+              <tr><td>$400</td><td>About 3 months</td><td>About 19 months</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>These figures are illustrative — swap in your own essentials and the amount you can spare each month — but the shape of the lesson holds: a modest, steady transfer reaches a starter cushion quickly, and even a full fund is a matter of months rather than the impossible mountain it first appears. The <a href="emergency-fund-calculator.html">emergency fund calculator</a> does this arithmetic for your own numbers.</p>
+
         <h2 id="where">Where to keep your emergency fund</h2>
         <p>Where you park the money matters almost as much as how much you save. You want it to follow two rules: easy to reach when you truly need it, but slightly annoying to spend on a whim.</p>
         <ul>
@@ -183,6 +225,15 @@
         <h2 id="rebuild">How to bounce back after using it</h2>
         <p>Spending your emergency fund isn't a failure — it means the plan worked exactly as intended. The fund did its job and kept a stressful moment from becoming a debt you'd carry for years.</p>
         <p>Once the dust settles, treat rebuilding as a short-term priority. Restart your automatic transfer, bump it up a little if you can for a few months, and aim first to restore the starter cushion before rebuilding the rest. You already know the routine works, because it just paid off.</p>
+
+        <h2 id="mistakes">Common mistakes to avoid</h2>
+        <ul>
+          <li><strong>Keeping it in your everyday account.</strong> Money that sits alongside day-to-day spending tends to get spent. Hold the fund in a separate, clearly named account so it stays reserved.</li>
+          <li><strong>Investing it for a better return.</strong> An emergency fund's job is to be there in full on the day you need it, so it belongs in safe, easy-access savings — not in the stock market, where it could fall in value at exactly the wrong moment.</li>
+          <li><strong>Waiting until you can save the whole thing.</strong> The full three-to-six-month figure can feel out of reach, so people put off starting. A $1,000 starter absorbs most everyday surprises and can be built far sooner.</li>
+          <li><strong>Raiding it for non-emergencies.</strong> If a cost is not unexpected, necessary, and urgent, it fails the test — reach for a sinking fund or another plan instead, and keep the emergency money for genuine surprises.</li>
+          <li><strong>Not rebuilding after you use it.</strong> Spending the fund is a success, not a failure. Restart the transfer as soon as you can so the cushion is ready for next time.</li>
+        </ul>
 
         <h2 id="bottom-line">The bottom line</h2>
         <p>An emergency fund is one of the most powerful, least glamorous money moves you can make. It won't earn headlines, but it buys you calm — the freedom to handle a bad day without borrowing. Start with a small starter goal, keep the money separate and safe, and automate a regular transfer so your cushion grows on its own. Pair the habit with a simple plan to <a href="how-to-make-a-budget.html">make a budget</a>, and you'll have a foundation the rest of your finances can safely stand on.</p>

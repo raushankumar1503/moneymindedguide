@@ -49,11 +49,36 @@
       "label": "The bottom line"
     },
     {
+      "href": "#faq",
+      "label": "Frequently asked questions"
+    },
+    {
       "href": "#sources",
       "label": "Sources & further reading"
     }
   ],
-  "faq": [],
+  "faq": [
+    {
+      "q": "How much can I realistically save each month?",
+      "a": "It depends on your bills and habits, but you don't need dramatic cuts to see a result. Picking just three or four changes that genuinely fit your life can free up a meaningful amount — swapping one bought lunch a week alone can be worth around $400 a year. The most reliable savings come from small, repeatable changes rather than one heroic month."
+    },
+    {
+      "q": "What is the fastest way to save money each month?",
+      "a": "Go after one large recurring cost rather than a dozen tiny ones. Housing, utilities, and insurance are usually the biggest lines in a budget, so a single change there — refinancing, re-shopping your cover at renewal, or dropping a plan tier — often saves more than months of skipping small treats, and it keeps working automatically."
+    },
+    {
+      "q": "Do I have to follow all 27 tips?",
+      "a": "No — and you shouldn't try. The list is a menu to choose from, not a checklist to complete. Pick two or three that feel genuinely painless, set them up this week, and let them run in the background. Trying to do everything at once is exactly what makes saving feel like punishment, and it rarely lasts."
+    },
+    {
+      "q": "How do I make the savings actually stick?",
+      "a": "Automate them so the decision is made once instead of every month. Set a standing transfer to savings for payday — pay yourself first — and book a short monthly money date to review what you spent and saved. Automation beats willpower, and that regular check-in is what keeps the changes alive long-term."
+    },
+    {
+      "q": "Where should the money I save go?",
+      "a": "Give it a job before it drifts back into spending. Sensible first homes are a starter emergency fund, paying down a nagging debt, or sinking funds for costs you already know are coming, with a simple plan like the 50/30/20 rule keeping the whole picture balanced."
+    }
+  ],
   "related": [
     {
       "href": "50-30-20-budget-rule.html",
@@ -141,6 +166,30 @@
         <h2 id="bottom-line">The bottom line</h2>
         <p>You don't need to do all 27 of these, and you certainly don't need to do them perfectly. Pick two or three that feel genuinely painless, set them up this week, and then let them run in the background. Small savings look unimpressive on day one, but repeated every month they add up to real money over a year.</p>
         <p>Where that money goes matters just as much as finding it in the first place. Send your early savings toward a starter <a href="build-an-emergency-fund.html">emergency fund</a>, use <a href="sinking-funds-explained.html">sinking funds</a> for the costs you already know are coming, and let a simple plan like <a href="50-30-20-budget-rule.html">the 50/30/20 rule</a> keep the whole picture balanced. Do that, and saving stops feeling like a monthly battle and starts running quietly on its own.</p>
+
+        <h2 id="faq">Frequently asked questions</h2>
+        <div class="faq">
+          <div class="faq-item">
+            <h3 class="faq-q">How much can I realistically save each month?</h3>
+            <p class="faq-a">It depends on your bills and habits, but you don't need dramatic cuts to see a result. Picking just three or four changes that genuinely fit your life can free up a meaningful amount — swapping one bought lunch a week alone can be worth around $400 a year. The most reliable savings come from small, repeatable changes rather than one heroic month.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">What is the fastest way to save money each month?</h3>
+            <p class="faq-a">Go after one large recurring cost rather than a dozen tiny ones. Housing, utilities, and insurance are usually the biggest lines in a budget, so a single change there — refinancing, re-shopping your cover at renewal, or dropping a plan tier — often saves more than months of skipping small treats, and it keeps working automatically.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">Do I have to follow all 27 tips?</h3>
+            <p class="faq-a">No — and you shouldn't try. The list is a menu to choose from, not a checklist to complete. Pick two or three that feel genuinely painless, set them up this week, and let them run in the background. Trying to do everything at once is exactly what makes saving feel like punishment, and it rarely lasts.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">How do I make the savings actually stick?</h3>
+            <p class="faq-a">Automate them so the decision is made once instead of every month. Set a standing transfer to savings for payday — pay yourself first — and book a short monthly money date to review what you spent and saved. Automation beats willpower, and that regular check-in is what keeps the changes alive long-term.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">Where should the money I save go?</h3>
+            <p class="faq-a">Give it a job before it drifts back into spending. Sensible first homes are a starter emergency fund, paying down a nagging debt, or sinking funds for costs you already know are coming, with a simple plan like the 50/30/20 rule keeping the whole picture balanced.</p>
+          </div>
+        </div>
 
         <h2 id="sources">Sources &amp; further reading</h2>
         <p>The explanations and examples in this guide are our own. To keep them accurate, and to give you trustworthy places to read more, we drew on official government and regulatory resources. These are good, impartial starting points if you want to confirm the details for your own country:</p>

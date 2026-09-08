@@ -48,6 +48,10 @@
       "label": "How to track it over time"
     },
     {
+      "href": "#mistakes",
+      "label": "Common mistakes to avoid"
+    },
+    {
       "href": "#bottom-line",
       "label": "The bottom line"
     },
@@ -174,6 +178,15 @@
         <h2 id="track">How to track it over time</h2>
         <p>A single net-worth figure is a snapshot; the real insight comes from watching it change. To track it, recalculate on a regular schedule — many people do this quarterly or a couple of times a year — using the same categories each time so the comparison is fair.</p>
         <p>Expect the number to move for two reasons: your own actions (saving, paying down debt) and things outside your control (the market value of investments or property rising and falling). Over short periods those market swings can dominate, which is why it is better to watch the multi-year trend than to react to every dip. A line that climbs over years is the sign to look for.</p>
+
+        <h2 id="mistakes">Common mistakes to avoid</h2>
+        <ul>
+          <li><strong>Valuing assets at what you paid, not what they are worth now.</strong> Use current, realistic resale values. A car or gadget is worth what it would sell for today, not its original price.</li>
+          <li><strong>Counting a home's full value while ignoring the mortgage.</strong> Net worth counts your equity — the market value minus what you still owe — not the sticker price. Leaving out the loan flatters the number and hides your real position.</li>
+          <li><strong>Forgetting to include every debt.</strong> Credit-card balances, student and car loans, and other borrowing all belong on the liabilities side. Leaving one out overstates where you actually stand.</li>
+          <li><strong>Reacting to a single reading.</strong> One snapshot means little on its own, especially when markets swing. The multi-year direction is what matters, so try not to celebrate or panic over any one measurement.</li>
+          <li><strong>Treating a negative figure as a verdict.</strong> Negative net worth is common early on and is a starting line, not a failing grade. Paying down debt lifts the number just as surely as saving does.</li>
+        </ul>
 
         <h2 id="bottom-line">The bottom line</h2>
         <p>Net worth is simply total assets minus total liabilities — a single snapshot of where you stand financially. It is not your income, it is not a moral scorecard, and a negative number early on is normal. Calculate it honestly, revisit it a few times a year, and pay attention to the direction rather than any one reading. Used this way, net worth becomes a quiet, motivating measure of the progress your everyday money habits are making.</p>
