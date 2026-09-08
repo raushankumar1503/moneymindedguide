@@ -94,7 +94,7 @@ ${links}
   </footer>`;
 }
 
-function document({ site, page, main, jsonldBlocks }) {
+function document({ site, page, main, jsonldBlocks, footHtml }) {
   return `${head(site, page, jsonldBlocks)}
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -103,7 +103,7 @@ ${header(site)}
 ${main}
 
 ${footer(site)}
-  <script src="app.js" defer></script>
+${footHtml ? footHtml + "\n" : ""}  <script src="app.js" defer></script>
 </body>
 </html>
 `;

@@ -1,0 +1,28 @@
+  <script>
+    /* 50/30/20 budget calculator — vanilla JS, no libraries, nothing stored or sent. */
+    (function () {
+      var incomeEl = document.getElementById('bud-income');
+      if (!incomeEl) return;
+      var needsEl = document.getElementById('bud-needs');
+      var wantsEl = document.getElementById('bud-wants');
+      var savingsEl = document.getElementById('bud-savings');
+      var calcBtn = document.getElementById('bud-calc-btn');
+      var resetBtn = document.getElementById('bud-reset-btn');
+      var DEFAULT = '3000';
+      function money(x) {
+        if (!isFinite(x)) return '—';
+        return '$' + x.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      }
+      function calc() {
+        var v = parseFloat(incomeEl.value);
+        if (!isFinite(v) || v < 0) { v = 0; }   /* empty / negative / non-numeric -> 0 */
+        needsEl.textContent = money(v * 0.5);
+        wantsEl.textContent = money(v * 0.3);
+        savingsEl.textContent = money(v * 0.2);
+      }
+      incomeEl.addEventListener('input', calc);
+      if (calcBtn) { calcBtn.addEventListener('click', calc); }
+      if (resetBtn) { resetBtn.addEventListener('click', function () { incomeEl.value = DEFAULT; calc(); incomeEl.focus(); }); }
+      calc();
+    })();
+  </script>

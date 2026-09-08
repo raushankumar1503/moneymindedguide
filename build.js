@@ -63,7 +63,15 @@ function build() {
 
     const jsonldBlocks = article.buildJsonld({ site, page, author, category, canonical });
     const mainHtml = article.main({ site, page, author, category });
-    const html = base.document({ site, page, main: mainHtml, jsonldBlocks });
+
+    // Optional page-specific script(s): content/articles/<slug>.foot.html is
+    // injected verbatim just before app.js (e.g. the 50/30/20 calculator logic).
+    const footPath = path.join(dir, file.replace(/\.md$/, ".foot.html"));
+    const footHtml = fs.existsSync(footPath)
+      ? fs.readFileSync(footPath, "utf8").replace(/\n$/, "")
+      : "";
+
+    const html = base.document({ site, page, main: mainHtml, jsonldBlocks, footHtml });
 
     const outPath = path.join(OUT, page.permalink.replace(/^\//, ""));
     fs.mkdirSync(path.dirname(outPath), { recursive: true });

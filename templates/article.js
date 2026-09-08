@@ -37,16 +37,20 @@ function buildJsonld({ site, page, author, category, canonical }) {
       { "@type": "ListItem", position: 3, name: page.headline, item: canonical },
     ],
   };
-  const faq = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: (page.faq || []).map((f) => ({
-      "@type": "Question",
-      name: f.q,
-      acceptedAnswer: { "@type": "Answer", text: f.a },
-    })),
-  };
-  return [article, breadcrumb, faq].map(jsonldScript).join("\n");
+  const blocks = [article, breadcrumb];
+  // FAQPage only when the article actually has FAQs (some pages have none).
+  if ((page.faq || []).length) {
+    blocks.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: page.faq.map((f) => ({
+        "@type": "Question",
+        name: f.q,
+        acceptedAnswer: { "@type": "Answer", text: f.a },
+      })),
+    });
+  }
+  return blocks.map(jsonldScript).join("\n");
 }
 
 function main({ page, author, category }) {
@@ -65,9 +69,9 @@ function main({ page, author, category }) {
           <span>Written &amp; Edited by <a href="${author.page}" rel="author">${esc(author.name)}</a>, ${esc(author.jobTitle)}</span>
           <span class="sep"></span>
           <span>Published <time datetime="${page.datePublished}">${esc(page.publishedDisplay)}</time></span>
-          <span class="sep"></span>
+          <span class="sep"></span>${page.updatedDisplay ? `
           <span>Updated <time datetime="${page.dateModified}">${esc(page.updatedDisplay)}</time></span>
-          <span class="sep"></span>
+          <span class="sep"></span>` : ""}
           <span>${esc(page.readingTime)}</span>
         </div>
       </div>
