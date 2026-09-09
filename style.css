@@ -612,9 +612,15 @@ h1, h2, h3, h4 {
    guard block at the very end of this file).
    ========================================================= */
 
-/* ---- Font Awesome icons (decorative, aria-hidden in markup) ---- */
+/* ---- Inline SVG icons (decorative, aria-hidden in markup). ---- */
+.mm-ico {
+  display: inline-block; width: 1em; height: 1em;
+  fill: currentColor; vertical-align: -0.125em; flex-shrink: 0;
+}
+
+/* ---- Font-icons: aligned for nav + footer link bars ---- */
 .nav a { position: relative; display: inline-flex; align-items: center; gap: 7px; }
-.nav a i { color: var(--green); font-size: 0.82em; }
+.nav a .mm-ico { color: var(--green); font-size: 0.82em; }
 
 /* animated nav underline (grows from the left instead of an instant line) */
 .nav a::after {
@@ -630,8 +636,8 @@ h1, h2, h3, h4 {
 
 /* footer link icons, aligned in a neat column */
 .site-footer li a { display: inline-flex; align-items: center; gap: 9px; }
-.site-footer li a i { width: 15px; text-align: center; color: #7f9a8f; font-size: 0.9em; transition: color .15s ease; }
-.site-footer li a:hover i { color: #fff; }
+.site-footer li a .mm-ico { color: #7f9a8f; font-size: 0.9em; transition: color .15s ease; }
+.site-footer li a:hover .mm-ico { color: #fff; }
 
 /* ---- card hover lift (animates transform / shadow only) ---- */
 .article-card, .post-featured, .tool-card {
@@ -674,10 +680,10 @@ html.js main { animation: mm-fade-in .45s ease both; }
 }
 .back-to-top.show { opacity: 1; visibility: visible; transform: none; }
 .back-to-top:hover { background: var(--green-dark); }
-.back-to-top i { font-size: 1rem; }
+.back-to-top .mm-ico { font-size: 1rem; }
 
 /* ---- small external-link icon on source links (added by app.js) ---- */
-.sources a .fa-arrow-up-right-from-square {
+.sources a .mm-ico.external-link {
   font-size: 0.72em; margin-left: 5px; color: var(--muted);
 }
 
@@ -855,7 +861,7 @@ body.search-on { overflow: hidden; }
   display: flex; align-items: center; gap: 10px;
   padding: 14px 16px; border-bottom: 1px solid var(--line);
 }
-.search-bar > i { color: var(--muted); font-size: 1rem; }
+.search-bar > .mm-ico { color: var(--muted); font-size: 1rem; }
 .search-input {
   flex: 1; font: inherit; font-size: 1.05rem; color: var(--ink);
   border: none; background: none; outline: none; padding: 4px 0;
@@ -898,5 +904,5 @@ body.search-on { overflow: hidden; }
   display: inline-flex; align-items: center; gap: 8px;
 }
 .tools-all a:hover { color: var(--green); }
-.tools-all a i { font-size: 0.85em; transition: transform .15s ease; }
-.tools-all a:hover i { transform: translateX(3px); }
+.tools-all a .mm-ico { font-size: 0.85em; transition: transform .15s ease; }
+.tools-all a:hover .mm-ico { transform: translateX(3px); }

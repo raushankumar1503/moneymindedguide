@@ -1,6 +1,7 @@
 // Base layout: <head>, header/nav, footer, full document shell.
 // Reproduces the existing MoneyMinded page structure exactly.
 const { esc } = require("./util");
+const { ICONS } = require("./icons");
 
 function head(site, page, jsonldBlocks) {
   const canonical = site.domain + page.permalink;
@@ -27,7 +28,14 @@ function head(site, page, jsonldBlocks) {
   <meta property="og:description" content="${esc(page.description)}">
   <meta property="og:url" content="${canonical}">
   <meta property="og:site_name" content="${esc(site.siteName)}">
+  <meta property="og:image" content="${site.domain}/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="${esc(site.siteName)} — simple money skills for real life">
+  <meta property="og:locale" content="en_US">
+  <meta property="article:modified_time" content="${page.dateModified}">
   <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="${site.domain}/og-image.png">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -37,7 +45,6 @@ function head(site, page, jsonldBlocks) {
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="${site.fontsUrl}" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="${site.fontAwesomeUrl}">
   ${site.adsenseComment}
 ${jsonldBlocks}
   <script>document.documentElement.classList.add('js');</script>
@@ -48,13 +55,13 @@ function header(site) {
   const links = site.nav
     .map(
       (n) =>
-        `        <a href="${n.href}"><i class="fa-solid ${n.icon}" aria-hidden="true"></i> ${esc(n.label)}</a>`
+        `        <a href="${n.href}">${ICONS[n.icon]} ${esc(n.label)}</a>`
     )
     .join("\n");
   return `  <header class="site-header">
     <div class="header-inner">
       <a class="brand" href="index.html">${esc(site.siteName)}<span class="dot">.</span></a>
-      <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="primary-nav" aria-expanded="false"><i class="fa-solid fa-bars" aria-hidden="true"></i></button>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-controls="primary-nav" aria-expanded="false">${ICONS.bars}</button>
       <nav class="nav" id="primary-nav" aria-label="Primary">
 ${links}
       </nav>
@@ -66,7 +73,7 @@ function footer(site) {
   const cats = site.footerCats
     .map(
       (c) =>
-        `          <li><a href="${c.href}"><i class="fa-solid ${c.icon}" aria-hidden="true"></i> ${esc(c.label)}</a></li>`
+        `          <li><a href="${c.href}">${ICONS[c.icon]} ${esc(c.label)}</a></li>`
     )
     .join("\n");
   const links = site.footerSite
