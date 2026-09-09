@@ -107,12 +107,12 @@
         <p>This guide explains what a credit score actually is, where the number comes from, what counts as good, and — importantly for anyone just starting out — how to build credit when you have none yet. If your goal is specifically to raise an existing score, our companion guide on <a href="how-to-improve-your-credit-score.html">how to improve your credit score</a> focuses on the habits that do it.</p>
 
         <h2 id="what-is">What a credit score is</h2>
-        <p>A credit score is a number that lenders use to gauge how likely you are to repay borrowed money. It condenses a lot of history — how you have used credit cards, loans, and other accounts — into a single figure that a lender can read at a glance.</p>
+        <p>A credit score is <a href="https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/" target="_blank" rel="noopener">a number that lenders use to gauge how likely you are to repay borrowed money</a>. It condenses a lot of history — how you have used credit cards, loans, and other accounts — into a single figure that a lender can read at a glance.</p>
         <p>The score exists because lenders need a quick, consistent way to assess risk. Rather than reading your full history line by line, they can look at a number and a few details, and decide whether to lend and on what terms. That is why the same score can influence not just approval, but the interest rate you are offered.</p>
 
         <h2 id="report-vs-score">Score vs. report: the difference</h2>
         <p>These two terms are often used interchangeably, but they are not the same thing, and the distinction is genuinely useful.</p>
-        <p>Your <strong>credit report</strong> is the underlying record — a file held by credit bureaus that lists your accounts, balances, payment history, and similar information. Your <strong>credit score</strong> is a number calculated <em>from</em> that report using a scoring model. Think of the report as the raw ingredients and the score as the dish made from them.</p>
+        <p>Your <strong>credit report</strong> is the underlying record — <a href="https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-report-en-309/" target="_blank" rel="noopener">a file held by credit bureaus that lists your accounts, balances, payment history, and similar information</a>. Your <strong>credit score</strong> is a number calculated <em>from</em> that report using a scoring model. Think of the report as the raw ingredients and the score as the dish made from them.</p>
         <p>This matters because a mistake on your report — an account that is not yours, or a payment wrongly marked late — can drag your score down through no fault of your own. Knowing the two are linked is the first step to spotting and fixing such errors.</p>
 
         <h2 id="factors">What goes into the number</h2>
@@ -160,7 +160,7 @@
         <p>Avoid anything that promises to build or "repair" your credit instantly for a fee — legitimate credit-building is gradual, and a solid <a href="how-to-make-a-budget.html">budget</a> that keeps payments comfortable does more for you than any paid shortcut.</p>
 
         <h2 id="check">How to check yours</h2>
-        <p>Reviewing your own credit is a healthy habit and, in many places, checking your own report or score does not harm it. When you look, confirm your details are correct, watch for accounts or applications you do not recognise (a possible sign of fraud), and make sure balances and payment records match your own. If something is wrong, you can dispute it with the bureau that holds the information.</p>
+        <p>Reviewing your own credit is a healthy habit and, in many places, checking your own report or score does not harm it. When you look, confirm your details are correct, watch for accounts or applications you do not recognise (a possible sign of fraud), and make sure balances and payment records match your own. If something is wrong, you can <a href="https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/" target="_blank" rel="noopener">dispute it with the bureau that holds the information</a>.</p>
 
         <h2 id="myths">Common credit myths</h2>
         <p>A handful of misunderstandings about credit are so widespread that they push people toward choices that do not actually help. A few worth clearing up:</p>
