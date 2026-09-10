@@ -75,7 +75,7 @@ function main({ page, author, category }) {
           <span>${esc(page.readingTime)}</span>
         </div>
       </div>
-
+${page.heroImage ? `\n      <figure class="article-hero">\n        <img src="${page.heroImage}" width="1200" height="480" alt="${esc(page.heroAlt)}" decoding="async" fetchpriority="high">\n      </figure>\n` : ""}
       <aside class="author-box" aria-label="About the author">
         <div class="author-badge" aria-hidden="true">${esc(author.badge)}</div>
         <div class="author-info">

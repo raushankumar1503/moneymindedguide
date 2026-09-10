@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Compound interest illustration</title>
+  <desc id="hd">A curve rising more and more steeply above a stack of coins, representing savings growing faster over time through compound interest.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g><ellipse cx="360" cy="360" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="360" cy="334" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="360" cy="308" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="360" cy="282" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/></g><g><path d="M 430 360 C 759 360 829.5 240 900 120 L 900 360 Z" fill="#1f7a5a" opacity="0.12"/><path d="M 430 360 C 759 360 829.5 240 900 120" fill="none" stroke="#1f7a5a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">401(k) growth illustration</title>
+  <desc id="hd">A rising series of bars leading to a nest holding a golden egg, representing steady long-term growth in a 401(k) retirement account.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g><rect x="300" y="290" width="60" height="70" rx="8" fill="#1f7a5a" opacity="0.55" stroke="#155c43" stroke-width="8"/><rect x="394" y="240" width="60" height="120" rx="8" fill="#1f7a5a" opacity="0.67" stroke="#155c43" stroke-width="8"/><rect x="488" y="190" width="60" height="170" rx="8" fill="#1f7a5a" opacity="0.79" stroke="#155c43" stroke-width="8"/><rect x="582" y="140" width="60" height="220" rx="8" fill="#e7b24a" opacity="0.91" stroke="#155c43" stroke-width="8"/></g><g>
+    <path d="M 690 250 Q 820 340 950 250 Q 910 290 820 290 Q 730 290 690 250 Z" fill="#1f7a5a" opacity="0.3" stroke="#155c43" stroke-width="8"/>
+    <ellipse cx="820" cy="244" rx="56" ry="70" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+  </g>
+</svg>

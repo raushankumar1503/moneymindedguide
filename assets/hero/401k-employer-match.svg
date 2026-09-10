@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Employer match illustration</title>
+  <desc id="hd">Two side-by-side stacks of coins of equal height with an upward arrow above, representing an employer matching an employee's retirement contributions.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g><ellipse cx="470" cy="340" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="470" cy="314" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="470" cy="288" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="470" cy="262" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/></g><g><ellipse cx="700" cy="340" rx="46" ry="16.6" fill="#1f7a5a" stroke="#155c43" stroke-width="8"/><ellipse cx="700" cy="314" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="700" cy="288" rx="46" ry="16.6" fill="#1f7a5a" stroke="#155c43" stroke-width="8"/><ellipse cx="700" cy="262" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/></g><g fill="none" stroke="#e7b24a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="585" y1="250" x2="585" y2="130"/>
+    <polyline points="595.6,153.7 585,130 574.4,153.7"/>
+  </g>
+</svg>

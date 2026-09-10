@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Making a budget illustration</title>
+  <desc id="hd">A ledger sheet with a few ticked line items and a coin beside it, representing planning income and expenses into a monthly budget.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g><rect x="360" y="150" width="380" height="220" rx="14" fill="#ffffff" stroke="#155c43" stroke-width="8"/><line x1="390" y1="210" x2="650" y2="210" fill="none" stroke="#cfe0cd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><polyline points="670,210 682,222 706,198" fill="none" stroke="#e7b24a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><line x1="390" y1="256" x2="650" y2="256" fill="none" stroke="#cfe0cd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><polyline points="670,256 682,268 706,244" fill="none" stroke="#e7b24a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><line x1="390" y1="302" x2="650" y2="302" fill="none" stroke="#cfe0cd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><polyline points="670,302 682,314 706,290" fill="none" stroke="#e7b24a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g><g>
+    <circle cx="840" cy="300" r="44" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+    <circle cx="840" cy="300" r="27.3" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="827.7" y1="300" x2="852.3" y2="300" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

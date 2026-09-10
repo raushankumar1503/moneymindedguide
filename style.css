@@ -215,6 +215,9 @@ h1, h2, h3, h4 {
 .byline { color: var(--muted); font-size: 0.9rem; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
 .byline .sep { border-left: 1px solid var(--line); height: 14px; display: inline-block; }
 
+.article-hero { max-width: var(--measure); margin: 18px auto 26px; }
+.article-hero img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 16px; }
+
 .article-body { max-width: var(--measure); margin: 0 auto; }
 .article-body > p:first-of-type { font-size: 1.15rem; color: var(--ink); }
 .article-body p { margin: 0 0 1.15em; }

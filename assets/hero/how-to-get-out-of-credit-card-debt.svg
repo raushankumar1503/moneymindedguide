@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Paying off credit card debt illustration</title>
+  <desc id="hd">A payment card above a descending set of steps with a downward arrow, representing steadily reducing a credit card balance to zero.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <rect x="300" y="150" width="230" height="150" rx="16" fill="#1f7a5a" stroke="#155c43" stroke-width="8"/>
+    <rect x="300" y="186" width="230" height="18" fill="#155c43"/>
+    <rect x="322" y="234" width="52" height="34" rx="6" fill="#e7b24a"/>
+  </g><g><rect x="640" y="170" width="60" height="200" rx="8" fill="#1f7a5a" opacity="0.55" stroke="#155c43" stroke-width="8"/><rect x="734" y="220" width="60" height="150" rx="8" fill="#1f7a5a" opacity="0.67" stroke="#155c43" stroke-width="8"/><rect x="828" y="270" width="60" height="100" rx="8" fill="#1f7a5a" opacity="0.79" stroke="#155c43" stroke-width="8"/><rect x="922" y="320" width="60" height="50" rx="8" fill="#e7b24a" opacity="0.91" stroke="#155c43" stroke-width="8"/></g><g fill="none" stroke="#b9791a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="700" y1="200" x2="900" y2="330"/>
+    <polyline points="874.3,326 900,330 885.9,308.2"/>
+  </g>
+</svg>

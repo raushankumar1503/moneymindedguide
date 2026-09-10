@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Saving for a house deposit illustration</title>
+  <desc id="hd">A small house outline beside a growing stack of coins, representing saving steadily toward a deposit on a home.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <polyline points="316,266.5 430,200 544,266.5" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="330" y="266.5" width="200" height="83.5" rx="8" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="408" y="301" width="44" height="49" rx="6" fill="#1f7a5a" opacity="0.85" stroke="#155c43" stroke-width="8"/>
+  </g><g><ellipse cx="760" cy="350" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="760" cy="324" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="760" cy="298" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="760" cy="272" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="760" cy="246" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/></g>
+</svg>

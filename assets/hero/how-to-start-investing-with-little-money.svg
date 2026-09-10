@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Starting to invest illustration</title>
+  <desc id="hd">A small seedling with two leaves growing out of a single coin, representing beginning to invest with a small amount of money.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <g>
+    <circle cx="600" cy="368" r="48" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+    <circle cx="600" cy="368" r="29.8" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="586.6" y1="368" x2="613.4" y2="368" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+    <path d="M 600 340 C 600 270 600 240 600 210" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 600 264 C 530 250 516 202 560 184 C 580 210 592 240 600 264 Z" fill="#1f7a5a" opacity="0.85" stroke="#155c43" stroke-width="8"/>
+    <path d="M 600 240 C 664 226 680 182 640 162 C 620 188 608 218 600 240 Z" fill="#1f7a5a" opacity="0.6" stroke="#155c43" stroke-width="8"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Improving a credit score illustration</title>
+  <desc id="hd">A credit-score gauge with an upward arrow moving the needle toward the higher range, representing an improving credit score.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <path d="M 380 320 A 180 180 0 0 1 740 320" fill="none" stroke="#cfe0cd" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 380 320 A 180 180 0 0 1 646.7 477.7" fill="none" stroke="#1f7a5a" stroke-width="18" stroke-linecap="round"/>
+    <path d="M 646.7 477.7 A 180 180 0 0 1 740 320" fill="none" stroke="#e7b24a" stroke-width="18" stroke-linecap="round"/>
+    <line x1="560" y1="320" x2="689.4" y2="414" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="560" cy="320" r="14" fill="#155c43"/>
+  </g><g fill="none" stroke="#1f7a5a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="780" y1="250" x2="880" y2="150"/>
+    <polyline points="870.7,174.3 880,150 855.7,159.3"/>
+  </g>
+</svg>

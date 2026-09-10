@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Index funds versus single stocks illustration</title>
+  <desc id="hd">A basket holding several small shapes next to one single shape, contrasting a diversified index fund with owning one individual stock.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <path d="M 345 259 Q 430 187.5 515 259" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 305 220 L 555 220 L 533 350 L 327 350 Z" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <line x1="385" y1="220" x2="370" y2="350" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="475" y1="220" x2="490" y2="350" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g><rect x="760" y="250" width="90" height="90" rx="12" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><g>
+    <circle cx="410" cy="300" r="22" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+    <circle cx="410" cy="300" r="13.6" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="403.8" y1="300" x2="416.2" y2="300" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g><g>
+    <circle cx="455" cy="285" r="22" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+    <circle cx="455" cy="285" r="13.6" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="448.8" y1="285" x2="461.2" y2="285" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g><g>
+    <circle cx="430" cy="250" r="22" fill="#e7b24a" stroke="#155c43" stroke-width="8"/>
+    <circle cx="430" cy="250" r="13.6" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="423.8" y1="250" x2="436.2" y2="250" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

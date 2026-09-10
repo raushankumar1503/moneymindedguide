@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Checking versus savings illustration</title>
+  <desc id="hd">A payment card next to a coin jar, contrasting an everyday checking account used for spending with a savings account used for setting money aside.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <rect x="360" y="200" width="250" height="160" rx="16" fill="#1f7a5a" stroke="#155c43" stroke-width="8"/>
+    <rect x="360" y="238.4" width="250" height="18" fill="#155c43"/>
+    <rect x="382" y="289.6" width="52" height="34" rx="6" fill="#e7b24a"/>
+  </g><g>
+    <rect x="754" y="180" width="182" height="20" rx="8" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <rect x="770" y="272" width="150" height="81" rx="12" fill="#1f7a5a" opacity="0.85"/>
+    <rect x="760" y="200" width="170" height="165" rx="22" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Months of savings illustration</title>
+  <desc id="hd">A calendar beside a coin jar, representing setting aside several months' worth of expenses as an emergency fund.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <rect x="320" y="170" width="250" height="210" rx="16" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <rect x="320" y="170" width="250" height="38" rx="16" fill="#1f7a5a"/>
+    <line x1="350" y1="154" x2="350" y2="184" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="540" y1="154" x2="540" y2="184" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="354" cy="230" r="8" fill="#cfe0cd"/><circle cx="417.3" cy="230" r="8" fill="#cfe0cd"/><circle cx="480.7" cy="230" r="8" fill="#cfe0cd"/><circle cx="544" cy="230" r="8" fill="#cfe0cd"/><circle cx="354" cy="270" r="8" fill="#cfe0cd"/><circle cx="417.3" cy="270" r="8" fill="#cfe0cd"/><circle cx="480.7" cy="270" r="8" fill="#e7b24a"/><circle cx="544" cy="270" r="8" fill="#cfe0cd"/>
+  </g><g>
+    <rect x="714" y="175" width="182" height="20" rx="8" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <rect x="730" y="256.5" width="150" height="101.5" rx="12" fill="#1f7a5a" opacity="0.85"/>
+    <rect x="720" y="195" width="170" height="175" rx="22" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

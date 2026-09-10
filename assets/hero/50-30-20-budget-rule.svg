@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">50/30/20 budget illustration</title>
+  <desc id="hd">A circle divided into three portions of roughly one half, one third, and one fifth, representing a budget split into needs, wants, and savings.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <path d="M 600 240 L 600 90 A 150 150 0 0 1 600 390 Z" fill="#1f7a5a" stroke="#ffffff" stroke-width="6"/><path d="M 600 240 L 600 390 A 150 150 0 0 1 457.3 193.6 Z" fill="#e7b24a" stroke="#ffffff" stroke-width="6"/><path d="M 600 240 L 457.3 193.6 A 150 150 0 0 1 600 90 Z" fill="#7d8f87" stroke="#ffffff" stroke-width="6"/>
+    <circle cx="600" cy="240" r="150" fill="none" stroke="#155c43" stroke-width="8"/>
+  </g><g><rect x="430" y="150" width="70" height="34" rx="8" fill="#1f7a5a" opacity="0.9"/><circle cx="446" cy="167" r="6" fill="#ffffff"/></g><g><rect x="760" y="150" width="70" height="34" rx="8" fill="#e7b24a" opacity="0.9"/><circle cx="776" cy="167" r="6" fill="#ffffff"/></g><g><rect x="760" y="320" width="70" height="34" rx="8" fill="#7d8f87" opacity="0.9"/><circle cx="776" cy="337" r="6" fill="#ffffff"/></g>
+</svg>

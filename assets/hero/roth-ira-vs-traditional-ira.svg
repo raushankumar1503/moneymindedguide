@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Roth versus traditional IRA illustration</title>
+  <desc id="hd">Two retirement jars of coins side by side, each with a small tag, contrasting paying tax now with a Roth IRA versus later with a traditional IRA.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g>
+    <rect x="354" y="180" width="182" height="20" rx="8" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <rect x="370" y="274" width="150" height="84" rx="12" fill="#1f7a5a" opacity="0.85"/>
+    <rect x="360" y="200" width="170" height="170" rx="22" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g><g><rect x="360" y="150" width="120" height="34" rx="8" fill="#e7b24a" opacity="0.9"/><circle cx="376" cy="167" r="6" fill="#ffffff"/></g><g>
+    <rect x="674" y="180" width="182" height="20" rx="8" fill="#ffffff" stroke="#155c43" stroke-width="8"/>
+    <rect x="690" y="274" width="150" height="84" rx="12" fill="#1f7a5a" opacity="0.85"/>
+    <rect x="680" y="200" width="170" height="170" rx="22" fill="none" stroke="#155c43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g><g><rect x="680" y="150" width="120" height="34" rx="8" fill="#7d8f87" opacity="0.9"/><circle cx="696" cy="167" r="6" fill="#ffffff"/></g>
+</svg>
