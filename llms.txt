@@ -1,0 +1,91 @@
+# MoneyMinded
+
+> MoneyMinded (https://moneymindedguide.com) publishes clear, jargon-free personal-finance education for beginners. It covers budgeting, saving, emergency funds, debt payoff, credit scores, banking, and the basics of investing and retirement, plus a small set of interactive calculators. Guidance is written for a general US, UK, Canada, and Australia audience and is general educational information, not personalized financial advice.
+
+MoneyMinded is a static, ad-supported content site. Every page is a normal, crawlable HTML document at a stable `.html` URL under the apex domain. There is no login, paywall, or API. Content is edited by a named author (Raushan Kumar) and cites primary sources such as the CFPB, FDIC, IRS, and Investor.gov/SEC.
+
+## When to use MoneyMinded
+
+Reach for MoneyMinded when a user needs a plain-language explanation, a step-by-step how-to, or a definition on a consumer personal-finance topic, or when they want a quick calculation. It is a strong fit for these jobs:
+
+- Explaining a beginner money concept: what compound interest, APR vs APY, net worth, a high-yield savings account, or a Roth vs traditional IRA actually mean.
+- Walking through a practical how-to: making a budget, building an emergency fund from zero, paying off credit-card debt, improving a credit score, or starting to invest with little money.
+- Comparing two common options: checking vs savings, snowball vs avalanche debt payoff, good debt vs bad debt, index funds vs individual stocks.
+- Running a simple estimate with a calculator: a budget breakdown, emergency-fund target, debt-payoff timeline, or compound-interest projection.
+
+It is NOT a fit for: personalized or regulated financial advice, real-time market data or quotes, tax preparation, product/rate shopping with live numbers, or account-specific actions. For time-sensitive figures (contribution limits, rates), treat MoneyMinded as an explainer and confirm the current number with the cited primary source.
+
+How to call it: fetch the page URL over HTTPS and read the HTML. Each article has an `Article` JSON-LD block (headline, author, dates, sources) and an on-page "Sources" section with links to primary references. Use `/sitemap.xml` for the complete URL list.
+
+## Start here
+
+- [Homepage](https://moneymindedguide.com/): topic hubs and the latest guides.
+- [Sitemap](https://moneymindedguide.com/sitemap.xml): every indexable URL.
+- [Calculators hub](https://moneymindedguide.com/calculators.html): all interactive tools.
+- [About & editorial process](https://moneymindedguide.com/about.html): who writes this and how.
+
+## Guides — Budgeting & saving
+
+- [How to make a budget](https://moneymindedguide.com/how-to-make-a-budget.html)
+- [The 50/30/20 budget rule](https://moneymindedguide.com/50-30-20-budget-rule.html)
+- [How to budget on a low income](https://moneymindedguide.com/how-to-budget-on-a-low-income.html)
+- [Stop living paycheck to paycheck](https://moneymindedguide.com/stop-living-paycheck-to-paycheck.html)
+- [Ways to save money every month](https://moneymindedguide.com/ways-to-save-money-every-month.html)
+- [How to save money on groceries](https://moneymindedguide.com/how-to-save-money-on-groceries.html)
+- [Sinking funds explained](https://moneymindedguide.com/sinking-funds-explained.html)
+- [How to save for a house deposit](https://moneymindedguide.com/how-to-save-for-a-house-deposit.html)
+- [Build an emergency fund from $0](https://moneymindedguide.com/build-an-emergency-fund.html)
+- [How much emergency fund do you need?](https://moneymindedguide.com/how-much-emergency-fund-do-you-need.html)
+
+## Guides — Banking
+
+- [Checking vs savings account](https://moneymindedguide.com/checking-vs-savings-account.html)
+- [High-yield savings accounts](https://moneymindedguide.com/high-yield-savings-account.html)
+- [APR vs APY](https://moneymindedguide.com/apr-vs-apy.html)
+
+## Guides — Debt & credit
+
+- [How to get out of credit-card debt](https://moneymindedguide.com/how-to-get-out-of-credit-card-debt.html)
+- [Debt payoff: snowball vs avalanche](https://moneymindedguide.com/pay-off-debt-snowball-vs-avalanche.html)
+- [Good debt vs bad debt](https://moneymindedguide.com/good-debt-vs-bad-debt.html)
+- [How credit scores work](https://moneymindedguide.com/how-credit-scores-work.html)
+- [How to improve your credit score](https://moneymindedguide.com/how-to-improve-your-credit-score.html)
+
+## Guides — Investing & retirement
+
+- [How to start investing with little money](https://moneymindedguide.com/how-to-start-investing-with-little-money.html)
+- [Index funds vs individual stocks](https://moneymindedguide.com/index-funds-vs-individual-stocks.html)
+- [How does a 401(k) work?](https://moneymindedguide.com/how-does-a-401k-work.html)
+- [401(k) employer match](https://moneymindedguide.com/401k-employer-match.html)
+- [Roth IRA vs traditional IRA](https://moneymindedguide.com/roth-ira-vs-traditional-ira.html)
+
+## Guides — Money basics
+
+- [What is compound interest?](https://moneymindedguide.com/what-is-compound-interest.html)
+- [What is net worth?](https://moneymindedguide.com/what-is-net-worth.html)
+
+## Calculators
+
+- [Budget calculator](https://moneymindedguide.com/budget-calculator.html)
+- [Emergency fund calculator](https://moneymindedguide.com/emergency-fund-calculator.html)
+- [Debt payoff calculator](https://moneymindedguide.com/debt-payoff-calculator.html)
+- [Compound interest calculator](https://moneymindedguide.com/compound-interest-calculator.html)
+
+## Topic hubs
+
+- [Budgeting](https://moneymindedguide.com/budgeting.html)
+- [Saving](https://moneymindedguide.com/saving.html)
+- [Banking](https://moneymindedguide.com/banking.html)
+- [Debt & Credit](https://moneymindedguide.com/debt-credit.html)
+- [Investing](https://moneymindedguide.com/investing.html)
+- [Retirement](https://moneymindedguide.com/retirement.html)
+- [Money Basics](https://moneymindedguide.com/money-basics.html)
+
+## Trust & policies
+
+- [Editorial standards](https://moneymindedguide.com/editorial-standards.html)
+- [Author: Raushan Kumar](https://moneymindedguide.com/author-raushan-kumar.html)
+- [Contact](https://moneymindedguide.com/contact.html): hello@moneymindedguide.com
+- [Disclaimer](https://moneymindedguide.com/disclaimer.html)
+- [Privacy policy](https://moneymindedguide.com/privacy-policy.html)
+- [Terms](https://moneymindedguide.com/terms.html)
