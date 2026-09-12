@@ -55,7 +55,14 @@
     "url": "https://moneymindedguide.com/",
     "logo": "https://moneymindedguide.com/logo.svg",
     "description": "MoneyMinded publishes clear, jargon-free personal-finance education for beginners — budgeting, saving, debt, credit, and investing basics.",
-    "founder": { "@type": "Person", "name": "Raushan Kumar", "url": "https://moneymindedguide.com/author-raushan-kumar.html" }
+    "founder": { "@type": "Person", "name": "Raushan Kumar", "url": "https://moneymindedguide.com/author-raushan-kumar.html" },
+    "email": "hello@moneymindedguide.com",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "hello@moneymindedguide.com",
+      "contactType": "customer support",
+      "availableLanguage": "en"
+    }
   }
   </script>
   <script type="application/ld+json">
@@ -65,7 +72,15 @@
     "name": "MoneyMinded",
     "url": "https://moneymindedguide.com/",
     "description": "Simple money skills for real life.",
-    "publisher": { "@type": "Organization", "name": "MoneyMinded" }
+    "publisher": { "@type": "Organization", "name": "MoneyMinded" },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://moneymindedguide.com/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
   }
   </script>
 

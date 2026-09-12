@@ -285,12 +285,12 @@
         opts[active].scrollIntoView({ block: "nearest" });
       }
 
-      function openSearch() {
+      function openSearch(prefill) {
         lastFocus = document.activeElement;
         overlay.hidden = false;
         document.body.classList.add("search-on");
-        input.value = "";
-        render("");
+        input.value = prefill || "";
+        render(input.value);
         input.focus();
       }
       function closeSearch() {
@@ -326,6 +326,13 @@
           }
         }
       });
+
+      // Deep link: /?q=term opens the search overlay pre-filled (matches the
+      // WebSite SearchAction in the homepage schema). No q param = unchanged.
+      try {
+        var q0 = new URLSearchParams(window.location.search).get("q");
+        if (q0) { openSearch(q0); }
+      } catch (e) {}
     }
 
   });
