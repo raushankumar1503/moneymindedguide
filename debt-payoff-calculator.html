@@ -13,13 +13,13 @@
     <!-- End Google Analytics -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Debt Payoff Calculator — How Long to Clear a Balance — MoneyMinded</title>
-  <meta name="description" content="Free debt payoff calculator. Enter your balance, APR, and monthly payment to see how many months it takes to clear the debt and how much interest it costs.">
+  <title>Debt Payoff Calculator — How Long to Pay Off a Balance? — MoneyMinded</title>
+  <meta name="description" content="Free debt payoff calculator. Enter your balance, APR, and monthly payment to see how long it takes to pay off the debt and how much interest it costs — then see how extra payments speed things up.">
   <link rel="canonical" href="https://moneymindedguide.com/debt-payoff-calculator.html">
 
   <!-- Open Graph / social preview -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Debt Payoff Calculator — MoneyMinded">
+  <meta property="og:title" content="Debt Payoff Calculator — How Long to Pay Off a Balance? — MoneyMinded">
   <meta property="og:description" content="Enter your balance, APR, and monthly payment to see how long it takes to clear a debt and how much interest it costs along the way.">
   <meta property="og:url" content="https://moneymindedguide.com/debt-payoff-calculator.html">
   <meta property="og:site_name" content="MoneyMinded">
@@ -75,6 +75,16 @@
       "@type": "Question",
       "name": "Does paying more than the minimum really help?",
       "acceptedAnswer": { "@type": "Answer", "text": "Yes, usually by a lot. Because interest is charged on the balance you still owe, every extra dollar shortens the payoff time and cuts total interest. Raise the payment in the calculator to see the effect." }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I only pay the minimum each month?",
+      "acceptedAnswer": { "@type": "Answer", "text": "On a high-APR credit card, minimum payments are designed to keep you paying interest for as long as possible. With a 24% APR card, paying only the minimum on a $5,000 balance can take a decade or more to fully repay." }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use this for student loans or car loans?",
+      "acceptedAnswer": { "@type": "Answer", "text": "The basic calculation is the same for any fixed-rate, fixed-payment debt. Enter the current balance, the loan's interest rate, and your monthly payment. The result is a reasonable estimate, though actual loan payoff may differ slightly because of how your lender applies payments." }
     }
   ]
 }
@@ -142,7 +152,38 @@
       <div class="wrap">
         <p class="kicker"><span class="research-badge"><svg class="mm-ico" viewBox="0 0 384 512" width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64H64zM96 64H288c17.7 0 32 14.3 32 32v32c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32V96c0-17.7 14.3-32 32-32zm32 160a32 32 0 1 1 -64 0 32 32 0 1 1 64 0zM96 352a32 32 0 1 1 0-64 32 32 0 1 1 0 64zM64 416c0-17.7 14.3-32 32-32h96c17.7 0 32 14.3 32 32s-14.3 32-32 32H96c-17.7 0-32-14.3-32-32zM192 256a32 32 0 1 1 0-64 32 32 0 1 1 0 64zm32 64a32 32 0 1 1 -64 0 32 32 0 1 1 64 0zm64-64a32 32 0 1 1 0-64 32 32 0 1 1 0 64zm32 64a32 32 0 1 1 -64 0 32 32 0 1 1 64 0zM288 448a32 32 0 1 1 0-64 32 32 0 1 1 0 64z"/></svg> Debt Payoff Calculator</span></p>
         <h1>Debt payoff calculator</h1>
-        <p class="cat-lead">See how long a fixed monthly payment takes to clear a debt, and how much interest you pay on the way. Enter a balance, its APR, and what you can pay each month. If the payment is too small to cover the interest, the calculator will tell you so you can raise it.</p>
+        <p class="cat-lead">See how long a fixed monthly payment takes to pay off a debt, and how much interest you pay along the way. Enter a balance, its APR, and what you can pay each month. Raise the payment to see how much faster the debt clears — and how much interest you avoid.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap narrow-col">
+        <h2>Understanding the inputs</h2>
+        <p><strong>Balance owed</strong> is the current amount you owe — the number on your last statement, not the credit limit.</p>
+        <p><strong>APR (Annual Percentage Rate)</strong> is the yearly interest rate on the debt. Credit cards typically carry APRs ranging from around 15% to over 30%. You'll find your APR on your statement or card agreement. APR and interest rate are often used interchangeably for credit cards; for loans they may differ because APR can include fees.</p>
+        <p><strong>Monthly payment</strong> is what you plan to pay each month. The calculator assumes you pay the same amount every month until the balance is zero. Paying more than the minimum can dramatically shorten the payoff time.</p>
+
+        <h2>How extra payments affect your payoff (illustrative example)</h2>
+        <p>The table below shows how a $5,000 balance at 24% APR pays off at different monthly payment amounts. These are illustrative figures generated by the same calculation method this calculator uses.</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Monthly payment</th>
+                <th>Months to pay off</th>
+                <th>Total interest paid</th>
+                <th>Total repaid</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>$150</td><td>56 months</td><td>$3,244</td><td>$8,244</td></tr>
+              <tr><td>$200</td><td>36 months</td><td>$1,801</td><td>$6,801</td></tr>
+              <tr><td>$300</td><td>21 months</td><td>$987</td><td>$5,987</td></tr>
+              <tr><td>$500</td><td>12 months</td><td>$270</td><td>$5,270</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="calc-note">Illustrative only. Assumes a fixed 24% APR, no new charges, and a constant monthly payment throughout. Your actual results will vary based on your card's specific terms and rate.</p>
       </div>
     </section>
 
@@ -221,12 +262,21 @@
             <h3 class="faq-q">Does paying more than the minimum really help?</h3>
             <p class="faq-a">Yes, usually by a lot. Because interest is charged on the balance you still owe, every extra dollar shortens the payoff time and cuts total interest. Raise the payment in the calculator to see the effect.</p>
           </div>
+          <div class="faq-item">
+            <h3 class="faq-q">What happens if I only pay the minimum each month?</h3>
+            <p class="faq-a">On a high-APR credit card, minimum payments are designed to keep you paying interest for as long as possible. With a 24% APR card, paying only the minimum on a $5,000 balance can take a decade or more to fully repay. The calculator does not model true minimum payments (which change as the balance falls), but entering a small fixed payment helps you see how slowly the balance falls at low payment amounts.</p>
+          </div>
+          <div class="faq-item">
+            <h3 class="faq-q">Can I use this for student loans or car loans?</h3>
+            <p class="faq-a">The basic calculation is the same for any fixed-rate, fixed-payment debt. Enter the current balance, the loan's interest rate, and your monthly payment. The result is a reasonable estimate, though actual loan payoff may differ slightly because of how your lender applies payments and calculates daily interest.</p>
+          </div>
         </div>
 
         <div class="sources">
           <h2>Sources</h2>
           <ul>
             <li><span class="src-name">Consumer Financial Protection Bureau (CFPB)</span><a href="https://www.consumerfinance.gov/" target="_blank" rel="noopener">Consumer guidance on paying down credit-card and other debt</a></li>
+            <li><span class="src-name">Federal Trade Commission (FTC)</span><a href="https://consumer.ftc.gov/articles/dealing-debt" target="_blank" rel="noopener">Guidance on understanding and dealing with debt</a></li>
           </ul>
         </div>
 
