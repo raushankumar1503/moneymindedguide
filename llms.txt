@@ -36,6 +36,7 @@ How to call it: fetch the page URL over HTTPS and read the HTML. Each article ha
 - [How to save for a house deposit](https://moneymindedguide.com/how-to-save-for-a-house-deposit.html)
 - [Build an emergency fund from $0](https://moneymindedguide.com/build-an-emergency-fund.html)
 - [How much emergency fund do you need?](https://moneymindedguide.com/how-much-emergency-fund-do-you-need.html)
+- [What is an HSA and how does it work?](https://moneymindedguide.com/what-is-an-hsa.html)
 
 ## Guides — Banking
 

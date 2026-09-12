@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="ht hd" preserveAspectRatio="xMidYMid meet">
+  <title id="ht">Health savings account illustration</title>
+  <desc id="hd">A stack of coins with a small medical cross, growing along an upward arrow, representing tax-advantaged savings for health care costs in a health savings account.</desc>
+  <metadata>Original illustration created for MoneyMinded (moneymindedguide.com). Source: in-house vector artwork, not derived from any third-party image. License: MoneyMinded — free for use on this site (own work); no attribution required.</metadata>
+  
+  <rect x="2" y="2" width="1196" height="476" rx="28" fill="#eef4ef"/>
+  <circle cx="1010" cy="86" r="230" fill="#1f7a5a" opacity="0.06"/>
+  <circle cx="150" cy="430" r="150" fill="#e7b24a" opacity="0.09"/>
+  <g><ellipse cx="430" cy="360" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="430" cy="334" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="430" cy="308" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="430" cy="282" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/><ellipse cx="430" cy="256" rx="46" ry="16.6" fill="#e7b24a" stroke="#155c43" stroke-width="8"/><ellipse cx="430" cy="230" rx="46" ry="16.6" fill="#ffffff" stroke="#155c43" stroke-width="8"/></g>
+  <g stroke="#ffffff" stroke-width="9" stroke-linecap="round">
+    <line x1="430" y1="247" x2="430" y2="299"/><line x1="404" y1="273" x2="456" y2="273"/>
+  </g>
+  <g fill="none" stroke="#1f7a5a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="560" y1="300" x2="760" y2="150"/>
+    <polyline points="747.4,172.7 760,150 734.6,155.8"/>
+  </g><text x="808" y="185" font-family="Georgia,serif" font-size="116" font-weight="700" fill="#e7b24a">HSA</text>
+</svg>
