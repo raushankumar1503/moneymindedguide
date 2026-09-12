@@ -4,3 +4,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://moneymindedguide.com/sitemap.xml
+
+# AI/agent guide — what this site covers and when to use it:
+# https://moneymindedguide.com/llms.txt
